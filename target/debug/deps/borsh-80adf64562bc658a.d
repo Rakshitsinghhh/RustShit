@@ -1,0 +1,11 @@
+/home/rakshit/projects/sample/target/debug/deps/borsh-80adf64562bc658a.d: /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/home/rakshit/projects/sample/target/debug/deps/libborsh-80adf64562bc658a.rmeta: /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs /home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md
+
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/lib.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/mod.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/de/hint.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/mod.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/ser/helpers.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/error.rs:
+/home/rakshit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/borsh-1.5.7/src/../docs/rustdoc_include/borsh_crate_top_level.md:
