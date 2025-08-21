@@ -50,7 +50,7 @@ test("two",()=>{
         })
 
         const tx2 = new Transaction();
-        const blockhash2=svm.latestBlockhash();git ad
+        const blockhash2=svm.latestBlockhash();
         tx2.recentBlockhash=blockhash2;
         tx2.add(txn2);
         tx2.sign(payer),
